@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.3dd8b2b1.css",
+    "main.js": "/react-portfolio/static/js/main.7dc3bfc4.js",
+    "static/media/wudgie-weather .png": "/react-portfolio/static/media/wudgie-weather .faaa1acdf73384fc2993.png",
+    "static/media/selfie.png": "/react-portfolio/static/media/selfie.60b0ab8b9c210439ad81.png",
+    "static/media/mysql-logo.png": "/react-portfolio/static/media/mysql-logo.167c88550478e6f0f85c.png",
+    "static/media/node-js-logo.png": "/react-portfolio/static/media/node-js-logo.65e4a4fac191f94298d2.png",
+    "static/media/workday-scheduler.png": "/react-portfolio/static/media/workday-scheduler.de4b78ac9c48af38a749.png",
+    "static/media/javascript-logo.png": "/react-portfolio/static/media/javascript-logo.8abcd9ed0d4e565e1f5c.png",
+    "static/media/password-generator .png": "/react-portfolio/static/media/password-generator .e55d1fbe0095755d45e6.png",
+    "static/media/CSS3-logo.png": "/react-portfolio/static/media/CSS3-logo.1cc8d604eda9ffa7e425.png",
+    "static/media/bootstrap-logo.png": "/react-portfolio/static/media/bootstrap-logo.f347ec0cc7da9fb0ff35.png",
+    "static/media/social-network.png": "/react-portfolio/static/media/social-network.f7647bd3a10082f37a23.png",
+    "static/media/github-logo.png": "/react-portfolio/static/media/github-logo.a83c245517c967e6a2db.png",
+    "static/media/React.js-logo.png": "/react-portfolio/static/media/React.js-logo.c2861c4dff64d52adf93.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.3dd8b2b1.css.map": "/react-portfolio/static/css/main.3dd8b2b1.css.map",
+    "main.7dc3bfc4.js.map": "/react-portfolio/static/js/main.7dc3bfc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dd8b2b1.css",
+    "static/js/main.7dc3bfc4.js"
+  ]
+}
