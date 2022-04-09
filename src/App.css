@@ -1,38 +1,165 @@
-.App {
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.nav-container1 {
+  border-bottom: 4px solid RGB(224, 122, 95);
+  background-color: RGB(242, 204, 143);
+}
+
+.navBar {
+  color: RGB(244, 241, 222);
+}
+
+.about-me {
+  border-top: 4px solid RGB(129, 178, 154);
+  background-color: RGB(244, 241, 222);
+  padding-top: 60px;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-bottom: 60px;
+  border-bottom: 4px solid RGB(129, 178, 154);
+}
+
+.selfie {
+  height: 500px;
+  padding-left: 400px;
+  padding-right: 400px;
+  margin: auto;
+}
+
+.body {
+  background-color: RGB(61, 64, 91);
+  border-style: solid;
+  border-width: 6px 6px 6px 6px;
+  border-color: RGB(129, 178, 154);
+  border-radius: 0.3rem;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  color: RGB(244, 241, 222);
+}
+
+.cardTitle {
   text-align: center;
+  font-size: 34px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.cardSubtitle {
+  border-bottom: 2px solid RGB(129, 178, 154);
+  text-align: center;
+  font-size: 30px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.cardText {
+  padding-top: 40px;
+  text-align: center;
+  font-size: 26px;
+  border-bottom: 2px solid RGB(129, 178, 154);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.footer {
+  height: 50px;
+  background-color: RGB(242, 204, 143);
+  border-top: 4px solid RGB(224, 122, 95);
+}
+
+.gitHub {
+  height: 50px;
+  width: 50px;
+}
+
+.project {
+  background-color: RGB(244, 241, 222);
+}
+
+.project-card {
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  background-color: RGB(244, 241, 222);
+  border-bottom: 2px solid RGB(129, 178, 154);
+  padding-top: 60px;
+  padding-bottom: 40px;
 }
 
-.App-link {
-  color: #61dafb;
+.project-image {
+  border: 6px solid RGB(61, 64, 91);
+  height: 400px;
+  width: 800px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.projects-title {
+  padding-top: 20px;
+  text-align: center;
+  color: RGB(61, 64, 91);
+  border-top: 2px solid RGB(129, 178, 154);
+}
+
+.contact-form {
+  background-color: RGB(244, 241, 222);
+  border-top: 4px solid RGB(129, 178, 154);
+  border-bottom: 4px solid RGB(129, 178, 154);
+  height: 600px;
+  padding-top: 100px;
+}
+
+.contact {
+  border-style: solid;
+  border-width: 6px 6px 6px 6px;
+  border-color: RGB(129, 178, 154);
+  text-align: center;
+  color: RGB(244, 241, 222);
+  padding-top: 40px;
+  height: 400px;
+  width: 600px;
+  margin: auto;
+  background-color: RGB(61, 64, 91);
+}
+
+.name {
+  padding-top: 10px;
+}
+.email {
+  padding-top: 10px;
+  padding-right: 55px;
+}
+
+.message {
+  padding-top: 10px;
+}
+
+.resume-page {
+  background-color: RGB(244, 241, 222);
+  height: 610px;
+  padding-top: 100px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.resume {
+  background-color: RGB(61, 64, 91);
+  padding-bottom: 60px;
+  padding-top: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+  color: RGB(244, 241, 222);
+  border-style: solid;
+  border-width: 6px 6px 6px 6px;
+  border-color: RGB(129, 178, 154);
+  border-radius: 0.3rem;
+}
+
+.skills {
+  text-align: center;
+  font-size: 18px;
+}
+
+.logos {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.skillsLogo {
+  height: 60px;
+  width: 60px;
 }
